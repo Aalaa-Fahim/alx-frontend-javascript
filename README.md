@@ -99,8 +99,8 @@ console.log(multiLineString);
 ES6 simplifies object creation and property assignment.
 
 ```javascript
-const name = 'John';
-const age = 30;
+const name = 'Alaa';
+const age = 23;
 
 const person = {
     name,
@@ -110,7 +110,7 @@ const person = {
     }
 };
 
-person.greet(); // Hello, my name is John and I am 30 years old.
+person.greet(); // Hello, my name is Alaa and I am 23 years old.
 ```
 
 ## Iterators and For-Of Loops
