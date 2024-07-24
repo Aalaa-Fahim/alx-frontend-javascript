@@ -83,9 +83,9 @@ console.log(newArr); // [1, 2, 3, 4, 5, 6]
 Template literals allow for easier string interpolation and multi-line strings.
 
 ```javascript
-const name = 'John';
+const name = 'Alaa';
 const greeting = `Hello, ${name}!`;
-console.log(greeting); // Hello, John!
+console.log(greeting); // Hello, Alaa!
 
 const multiLineString = `
 This is a
